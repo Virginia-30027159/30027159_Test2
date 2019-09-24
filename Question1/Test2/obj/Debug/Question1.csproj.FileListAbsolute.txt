@@ -1,0 +1,7 @@
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\bin\Debug\Test2.exe.config
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\bin\Debug\Test2.exe
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\bin\Debug\Test2.pdb
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\obj\Debug\Test2.exe
+C:\Users\30027159\Repos\VirginiaBarnett_30027159_Test2\Question1\Test2\obj\Debug\Test2.pdb
